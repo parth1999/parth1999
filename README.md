@@ -2,7 +2,7 @@
 - 👀 I've done project in PHP, NodeJS, MongoDB.
 - 🌱 I’m currently learning Salesforce.
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me mail on : parthmamkhav1999@outlook.com
+- 📫 How to reach me mail on : parthmamkhav1999@gmail.com
 
 <!---
 parth1999/parth1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
