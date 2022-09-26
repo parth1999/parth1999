@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parth1999
-- 👀 I've done project in ReactJS, NodeJS, MongoDB.
+- 👀 I've done project in PHP, NodeJS, MongoDB.
 - 🌱 I’m currently learning Salesforce.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me mail on : parthmamkhav1999@outlook.com
